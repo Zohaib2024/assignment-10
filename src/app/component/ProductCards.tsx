@@ -15,7 +15,7 @@ const ProductCards = () => {
               alt="Picture of the author"
             />
 
-            <h1 className="font-bold text-center text-sm">
+            <h1 className="font-bold text-center text-xl">
               Artificial intelligence
             </h1>
           </div>
@@ -30,7 +30,7 @@ const ProductCards = () => {
               alt="Picture of the author"
             />
 
-            <h1 className="font-bold text-center text-sm">
+            <h1 className="font-bold text-center  text-xl">
               Web 3 and metaverse
             </h1>
           </div>
@@ -45,7 +45,7 @@ const ProductCards = () => {
               alt="Picture of the author"
             />
 
-            <h1 className="font-bold text-center text-sm">
+            <h1 className="font-bold text-center  text-xl">
               cloud-native computing
             </h1>
           </div>
@@ -60,7 +60,7 @@ const ProductCards = () => {
               alt="Picture of the author"
             />
 
-            <h1 className="font-bold text-center text-sm">
+            <h1 className="font-bold text-center  text-xl">
               Ambient Computing and Iot
             </h1>
           </div>
@@ -75,7 +75,7 @@ const ProductCards = () => {
               alt="Picture of the author"
             />
 
-            <h1 className="font-bold text-center text-sm">
+            <h1 className="font-bold text-center  text-xl">
               Genomics and bioinformatics
             </h1>
           </div>
