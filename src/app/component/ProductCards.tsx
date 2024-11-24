@@ -10,7 +10,7 @@ const ProductCards = () => {
             <Image
               className="mx-auto"
               src="/adv 1.jpg"
-              width={340}
+              width={440}
               height={500}
               alt="Picture of the author"
             />
@@ -25,7 +25,7 @@ const ProductCards = () => {
             <Image
               className="mx-auto"
               src="/adv 2.jpg"
-              width={340}
+              width={440}
               height={500}
               alt="Picture of the author"
             />
@@ -40,7 +40,7 @@ const ProductCards = () => {
             <Image
               className="mx-auto "
               src="/adv 3.jpg"
-              width={340}
+              width={440}
               height={500}
               alt="Picture of the author"
             />
@@ -55,7 +55,7 @@ const ProductCards = () => {
             <Image
               className="mx-auto"
               src="/adv 4.jpg"
-              width={340}
+              width={440}
               height={500}
               alt="Picture of the author"
             />
@@ -70,7 +70,7 @@ const ProductCards = () => {
             <Image
               className="mx-auto"
               src="/adv 5.jpg"
-              width={340}
+              width={440}
               height={500}
               alt="Picture of the author"
             />
